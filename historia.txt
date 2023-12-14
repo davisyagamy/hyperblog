@@ -1,4 +1,4 @@
 Archivo de prueba que utilizare para el curso de Git y GitHub de platzi.
 Tengo 36 años.
 CSJ
-Hablaremos de mi Vida
+Hablaremos de mi Vida y obra maestra    
