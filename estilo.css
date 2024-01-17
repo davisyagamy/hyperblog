@@ -1,6 +1,5 @@
 body{
-
-    color: #33A;
+    color: red;
     text-align: center;
     font-family: "Arial", serif;
     font-size: 16px;
@@ -35,4 +34,10 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
 }
